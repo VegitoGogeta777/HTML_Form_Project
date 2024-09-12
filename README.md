@@ -9,8 +9,6 @@ Additionally, JPDB provides primary key support, ensuring unique identification 
 Release History :
 ---
 
-## Release History
-
 ### [v1.0.0] - 2024-09-11
 - **Initial Release**
   - Implemented the core functionality for managing student records using JsonPowerDB.
