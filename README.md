@@ -7,6 +7,7 @@ Benefits of using JsonPowerDB: Using JsonPowerDB (JPDB) in the above project off
 Additionally, JPDB provides primary key support, ensuring unique identification of records, and works seamlessly with JSON, reducing the need for data transformation. Its low setup requirements, security through connection tokens, and scalability make it an ideal choice for lightweight applications, offering both speed and convenience for real-time data management.
 
 Release History :
+
 ---
 
 ### [v1.0.0] - 2024-09-11
